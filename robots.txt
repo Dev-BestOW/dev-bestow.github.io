@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://dev-bestow.github.io/BestOW-UI/sitemap.xml
